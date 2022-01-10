@@ -5,4 +5,4 @@ Start with index.html.
 
 Jump with Spacebar.
 
-When you touch any on Nicolases game will stop.
+When you touch any of Nicolases game will stop.
